@@ -1,0 +1,11 @@
+core/data_provider/CIKM/
+checkpoints/
+data/
+results/
+**/__pycache__
+test_*.py
+*_2.py
+*.jpg
+*.tif
+*.ttf
+.DS_Store
